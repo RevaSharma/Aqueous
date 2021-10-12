@@ -48,3 +48,10 @@ Aqueous works in conjunction with a water meter sensor, that can be attached to 
 2. 16px is the default font size in many apps, as most paragraphs, labels and menus are legible at this size.
 3. These sizes are readable from the phone when held at a reasonable distance from the eyes.
 4. The rationale behind using only 4 font sizes throughout is that it makes the app look professional, uncluttered and structured.  
+5. 
+
+**This repository contains 2 pdf files:**
+
+**1. The first pdf contains all the 14 app screens.**
+
+**2. The second pdf contains annotations regarding app colors, font types and font sizes on all the 14 app screens.**
